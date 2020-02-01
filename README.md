@@ -1,2 +1,2 @@
 # EE605
-Stochastic ML 
+Stochastic Stats Grad Course
